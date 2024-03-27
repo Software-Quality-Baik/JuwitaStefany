@@ -6,7 +6,7 @@ Selamat datang di repositori pengujian kualitas fungsionalitas proyek HealHeroo.
 
 | No  | Judul Projek        | Introduction                                                       | Audience | Nama Pengujian                | Link SQA                                                                                             |
 | --- | ------------------- | ------------------------------------------------------------------ | -------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 1   | [HealHeroo Apps](https://healhero.my.id/) | Ini adalah aplikasi yang dapat digunakan untuk melihat artikel kesehatan, melakukan pemeriksaan kesehatan, dan melakukan pembelian obat | User     | Test1-cek_kesehatan_diabetes | [test1](https://software-qualty.github.io/JuwitaStefany/HealHerooApp/Test-deleteSentimenlist) |
+| 1   | [HealHeroo Apps](https://healhero.my.id/) | Ini adalah aplikasi yang dapat digunakan untuk melihat artikel kesehatan, melakukan pemeriksaan kesehatan, dan melakukan pembelian obat | User     | Test1-cek_kesehatan_diabetes | [test1](https://software-qualty.github.io/JuwitaStefany/HealHerooApp/Test-cekDiabetes) |
 
 
 ## Persyaratan
@@ -42,4 +42,5 @@ ATTENTION! Sebelum memakai kode yang disediakan, kamu harus pastikan untuk memen
 
 3. Tunggu hingga pengujian selesai dieksekusi. Hasil pengujian akan ditampilkan di terminal.
 
-#Selamat Mengerjakan. Tetap Semangat Melewatinya Walau Berat
+
+# Selamat Mengerjakan. Tetap Semangat Melewatinya Walau Berat
