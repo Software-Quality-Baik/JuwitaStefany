@@ -1,2 +1,2 @@
 # JuwitaStefany
-qa nya juwi 
+Ini Testing Software Quality
